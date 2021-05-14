@@ -42,7 +42,9 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Release]
-ReleaseTarget=3
+ReleaseTarget=2
+ReleaseFolderPath=[OutputPath]
+ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
 DocumentPath=ColinSchLib.SchLib
