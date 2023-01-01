@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name "lasagna-motherboard-altium-import")(type "KiCad")(uri "${KIPRJMOD}/lasagna-motherboard-altium-import.kicad_sym")(options "")(descr ""))
   (lib (name "lasagna-motherboard")(type "KiCad")(uri "${KIPRJMOD}/lasagna-motherboard.kicad_sym")(options "")(descr ""))
 )
