@@ -62,7 +62,7 @@
     )
   )
   (symbol "Adafruit_PCA9685_PWMGen" (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at 6.35 -11.43 0)
+    (property "Reference" "U?" (id 0) (at 6.35 -11.43 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Adafruit_PCA9685_PWMGen" (id 1) (at -3.81 7.62 0)
