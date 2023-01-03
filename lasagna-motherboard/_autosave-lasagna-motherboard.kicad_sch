@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Lasagna Motherboard Schematic ")
+    (date "2023-01-03")
+    (rev "v0.1")
+    (company "Blueshift Robotics")
+  )
+
   (lib_symbols
     (symbol "lasagna-motherboard:Adafruit_BNO055_IMU" (in_bom yes) (on_board yes)
       (property "Reference" "U?" (id 0) (at 7.62 -10.16 0)
