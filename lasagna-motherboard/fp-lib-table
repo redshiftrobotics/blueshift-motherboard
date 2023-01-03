@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name "lasagna-motherboard")(type "KiCad")(uri "C:/Users/SAAS_User/Documents/GitHub/blueshift-motherboard/lasagna-motherboard.pretty")(options "")(descr ""))
+  (lib (name "lasagna-motherboard")(type "KiCad")(uri "${KIPRJMOD}/lasagna-motherboard.pretty")(options "")(descr ""))
   (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/SAAS_User/Documents/kicadLibs/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
 )
