@@ -1,4 +1,4 @@
-20912552900768933
+20915900776420034
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87539,8 +87539,8 @@ Adafruit_PCA9685_PWMGen
 
 
 0
-12
-12
+61
+60
 lasagna-motherboard
 ESC
 
@@ -87553,10 +87553,17 @@ FathomX
 
 
 0
-6
-5
+4
+4
 lasagna-motherboard
 FathomX_Connector
+
+
+0
+2
+2
+lasagna-motherboard
+Jetson Power Connector
 
 
 0
@@ -87582,4 +87589,11 @@ Power_Connector
 
 0
 2
-1
+2
+lasagna-motherboard
+TO255P1040X460X1968-3
+
+
+0
+3
+3
